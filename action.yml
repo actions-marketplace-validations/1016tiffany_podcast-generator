@@ -1,5 +1,5 @@
-name: "PODcast Generator "
-author: "Tiffany Lin"
+name: "Podcast Generator by Boba"
+author: "Boba Milk Tea"
 description: "Generates a feed for a podcase from a YAML file"
 runs:
   using: "docker"
